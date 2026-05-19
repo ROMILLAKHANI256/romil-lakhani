@@ -1,5 +1,5 @@
 # Romil Lakhani
-**Computer Programming & Analysis Graduate — Seneca Polytechnic**
+**Computer Programming & Analysis Honours Graduate — Seneca Polytechnic**
 
 Software developer with experience building full-stack backend APIs, JavaFX desktop applications, REST microservices, iOS mobile apps, AI-integrated services, and C/C++ systems applications. Comfortable with RESTful API design, database-backed CRUD workflows, Docker-based environments, CI/CD automation, AWS integrations, and automated testing. Repositories below highlight implemented features, validations, and end-to-end application workflows.
 
@@ -113,7 +113,3 @@ Software developer with experience building full-stack backend APIs, JavaFX desk
 - **Tools:** VS Code, PyCharm, IntelliJ/NetBeans, Xcode, Jira, SSH, MS Office Suite
 
 ---
-
-## 📫 Contact
-- **Email:** rlkslakhani10@gmail.com
-- **LinkedIn:** [linkedin.com/in/romil-lakhani-7b7196226](https://linkedin.com/in/romil-lakhani-7b7196226)
