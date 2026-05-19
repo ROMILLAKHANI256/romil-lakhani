@@ -45,15 +45,14 @@ Software developer with experience building full-stack backend APIs, JavaFX desk
 - Reduced input errors using sliders, choice boxes, and alert-driven validation.
 - Implemented secure **MySQL** authentication and multi-tier financial algorithms for complex interest rate calculations.
 
-#### Inventory Management System
-- Built a **JavaFX** desktop application to manage parts and products with **MySQL** persistence.
-- Implemented search by ID and name with comprehensive validation.
-- Enforced cross-record validation rules to prevent invalid updates and inconsistent inventory states.
 
 #### Aircraft Inventory Management System
 - Built a **Java** application to manage, track, and assemble 200+ aircraft parts using component-based product composition logic.
 - Designed complex SQL joins, views, and referential integrity validation to prevent invalid inventory states.
 - Implemented secure user authentication and iterative refactoring of data access logic across development cycles.
+- Built a **JavaFX** desktop application to manage parts and products with **MySQL** persistence.
+- Implemented search by ID and name with comprehensive validation.
+- Enforced cross-record validation rules to prevent invalid updates and inconsistent inventory states.
 
 ---
 
