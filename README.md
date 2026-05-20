@@ -18,13 +18,13 @@ Software developer with experience building full-stack backend APIs, JavaFX desk
 
 ### Backend / Cloud
 
-#### Smart Inventory Query API
+#### [Smart Inventory Query API](https://github.com/RomilLakhani-dev/smart-inventory-api) *(link coming soon)*
 - Built a production-grade REST API using **FastAPI** and **Python 3.x** to manage an aircraft parts inventory with full CRUD operations, Pydantic request validation, and auto-generated Swagger documentation.
 - Wrote and optimized complex **SQL queries**, joins, CTEs, aggregation views, and stored procedures in SQLite to support application logic, analytics, and assembly stock-readiness checks.
 - Integrated the **Claude AI API** as a RESTful third-party service to deliver a RAG-style natural language query endpoint — structured SQL data retrieved at runtime and injected as context for intelligent responses.
 - Delivered a complete **pytest** test suite (11 tests) covering all endpoints, edge cases, and error states, ensuring production-ready reliability.
 
-#### Fragments Microservice
+#### [Fragments Microservice](https://github.com/RomilLakhani-dev/fragments)
 - Developed an **Express-based REST API** with request validation, structured logging, and user ID hashing.
 - Containerized the service with **Docker** and used **Docker Compose** to run an integrated multi-container local environment.
 - Implemented **CI/CD** to automatically build, tag, and push container images on each git push via GitHub Actions.
@@ -35,21 +35,25 @@ Software developer with experience building full-stack backend APIs, JavaFX desk
 
 ### Desktop (JavaFX)
 
-#### Hotel Reservation System
+#### [Hotel Reservation System](https://github.com/RomilLakhani-dev/Hotel_Reservation_System)
 - Built a **JavaFX** kiosk application to manage hotel check-ins, bookings, and billing.
 - Implemented **MySQL-backed** availability validation to prevent double bookings across room types.
 - Designed input validation and error handling to keep transactions reliable in a self-service flow.
 
-#### Auto Loan Application
+#### [Auto Loan Application](https://github.com/RomilLakhani-dev/Auto_Loan_APP)
 - Built a **JavaFX** calculator for weekly, bi-weekly, and monthly loan payment options.
 - Reduced input errors using sliders, choice boxes, and alert-driven validation.
 - Implemented secure **MySQL** authentication and multi-tier financial algorithms for complex interest rate calculations.
 
-
-#### Aircraft Inventory Management System
+#### [Aircraft Inventory Management System](https://github.com/RomilLakhani-dev/Aircraft_Inventory_Management_System)
 - Built a **Java** application to manage, track, and assemble 200+ aircraft parts using component-based product composition logic.
 - Designed complex SQL joins, views, and referential integrity validation to prevent invalid inventory states.
 - Implemented secure user authentication and iterative refactoring of data access logic across development cycles.
+- Built a **JavaFX** desktop application to manage parts and products with **MySQL** persistence.
+- Implemented search by ID and name with comprehensive validation.
+- Enforced cross-record validation rules to prevent invalid updates and inconsistent inventory states.
+
+#### Inventory Management System *(repo link coming soon)*
 - Built a **JavaFX** desktop application to manage parts and products with **MySQL** persistence.
 - Implemented search by ID and name with comprehensive validation.
 - Enforced cross-record validation rules to prevent invalid updates and inconsistent inventory states.
@@ -58,17 +62,17 @@ Software developer with experience building full-stack backend APIs, JavaFX desk
 
 ### Mobile (iOS — SwiftUI)
 
-#### Tax Filing Management — iOS
+#### Tax Filing Management — iOS *(repo link coming soon)*
 - Built an **iOS** application using **SwiftUI** and **Core Data** to manage tax client workflows.
 - Implemented role-based access, form validation, and persistent storage for admin and customer views.
 - Designed an admin dashboard with status indicators and profile management to track filing progress.
 
-#### Book Collection Manager — iOS
+#### Book Collection Manager — iOS *(repo link coming soon)*
 - Built an **iOS** application using **SwiftUI** and **Core Data** to manage personal book collections.
 - Implemented full CRUD with real-time search, favorites, and persistent storage.
 - Designed navigation with detail views, edit sheets, swipe actions, and state-driven UI validation.
 
-#### Straw Hat Pirates Crew Registration — iOS
+#### Straw Hat Pirates Crew Registration — iOS *(repo link coming soon)*
 - Developed a **SwiftUI** form-based app with input validation and credential checks.
 - Implemented secure password visibility toggling, alerts, and reset logic.
 - Built a profile screen with reusable components and state-driven UI updates.
@@ -77,17 +81,17 @@ Software developer with experience building full-stack backend APIs, JavaFX desk
 
 ### Systems / C++
 
-#### Truck Inventory & Logistics Allocation System
+#### Truck Inventory & Logistics Allocation System *(repo link coming soon)*
 - Developed a **C/C++** modular logistics system to allocate trucks by route, capacity, and schedule.
 - Implemented multi-variable allocation algorithms with partial fulfillment logic and stock validation.
 - Led a team of 4 developers using **Git** and **Jira** across a 3-month delivery cycle with full test coverage.
 
-#### Assembly Line Application
+#### Assembly Line Application *(repo link coming soon)*
 - Developed a queue-based **C++** system to simulate production workflows and order fulfillment.
 - Implemented partial fulfillment logic and stock checks for incomplete inventory scenarios.
 - Structured the application using modular components to improve maintainability and error handling.
 
-#### Point of Sale System
+#### Point of Sale System *(repo link coming soon)*
 - Developed a console-based **C++** POS system to manage inventory, sales transactions, and receipt generation.
 - Implemented stock tracking and validation to prevent overselling and handle low inventory scenarios.
 - Optimized transaction workflows to reduce manual input and improve checkout efficiency.
@@ -112,3 +116,7 @@ Software developer with experience building full-stack backend APIs, JavaFX desk
 - **Tools:** VS Code, PyCharm, IntelliJ/NetBeans, Xcode, Jira, SSH, MS Office Suite
 
 ---
+
+## 📫 Contact
+- **Email:** rlkslakhani10@gmail.com
+- **LinkedIn:** [linkedin.com/in/romil-lakhani-7b7196226](https://linkedin.com/in/romil-lakhani)
