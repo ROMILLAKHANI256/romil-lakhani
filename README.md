@@ -53,26 +53,22 @@ Software developer with experience building full-stack backend APIs, JavaFX desk
 - Implemented search by ID and name with comprehensive validation.
 - Enforced cross-record validation rules to prevent invalid updates and inconsistent inventory states.
 
-#### Inventory Management System *(repo link coming soon)*
-- Built a **JavaFX** desktop application to manage parts and products with **MySQL** persistence.
-- Implemented search by ID and name with comprehensive validation.
-- Enforced cross-record validation rules to prevent invalid updates and inconsistent inventory states.
 
 ---
 
 ### Mobile (iOS — SwiftUI)
 
-#### Tax Filing Management — iOS *(repo link coming soon)*
+#### [Tax Filing Management](https://github.com/RomilLakhani-dev/TAX_Filling_App)
 - Built an **iOS** application using **SwiftUI** and **Core Data** to manage tax client workflows.
 - Implemented role-based access, form validation, and persistent storage for admin and customer views.
 - Designed an admin dashboard with status indicators and profile management to track filing progress.
 
-#### Book Collection Manager — iOS *(repo link coming soon)*
+#### [Book Collection Manager](https://github.com/RomilLakhani-dev/Book_Collection_Manager)
 - Built an **iOS** application using **SwiftUI** and **Core Data** to manage personal book collections.
 - Implemented full CRUD with real-time search, favorites, and persistent storage.
 - Designed navigation with detail views, edit sheets, swipe actions, and state-driven UI validation.
 
-#### Straw Hat Pirates Crew Registration — iOS *(repo link coming soon)*
+#### [Straw Hat Pirates Crew Registration](https://github.com/RomilLakhani-dev/Straw_Hat_Pirates_Crew_Registration)
 - Developed a **SwiftUI** form-based app with input validation and credential checks.
 - Implemented secure password visibility toggling, alerts, and reset logic.
 - Built a profile screen with reusable components and state-driven UI updates.
